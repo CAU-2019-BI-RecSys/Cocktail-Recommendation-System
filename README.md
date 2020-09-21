@@ -1,4 +1,4 @@
-# bobview
+# Cocktail Recommendattion System
 
 ## Project setup
 ```
